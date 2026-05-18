@@ -2,7 +2,7 @@
 
 Lo que necesitas saber sobre el Sistema de Finanzas Abiertas (SFA) de Chile, ordenado, actualizado y sin humo. Para PYMES, creators, devs y cualquiera que quiera entender qué cambia y cuándo.
 
-Mantenido por [Carlos Tapia](https://carlostapia.cl). MIT. Actualizado al 2026-05-18.
+Mantenido por [Carlos Tapia](https://carlostapia.cl), profesional con experiencia en banca y tecnología en Chile. **Proyecto personal e independiente.** No representa a ningún empleador, banco ni fintech. MIT. Actualizado al 2026-05-18.
 
 ---
 
@@ -18,11 +18,11 @@ Eso es todo. El resto es detalle.
 
 El contenido público sobre SFA en Chile hoy es de tres tipos: técnico-jurídico (Carey, Garrigues), vendor-side (Shinkansen, Fintoc) o institucional (CMF, FinteChile). Nadie habla en castellano de oficina para el dueño del café, la ferretería, el estudio de diseño o el SaaS chico que va a tener que tomar decisiones cuando esto prenda.
 
-Este repo es eso. No vendo nada. No represento a ningún banco ni fintech. Si encontrás algo útil, contribuí con un PR.
+Este repo es eso. Trabajo en banca y tecnología pero mantengo este proyecto en tiempo personal, sin vincularlo a ningún empleador, banco ni fintech. Sin agenda comercial: no vendo infraestructura, ni consultoría SFA, ni servicios financieros. Si encuentras algo útil, contribuye con un PR.
 
 ---
 
-## Empezá por acá
+## Empieza por acá
 
 Si tienes una PYME o cobras con tarjeta:
 - [Cuánto te puede ahorrar el SFA (calculadora)](./para-pymes/calculadora.md)
@@ -42,7 +42,6 @@ Si eres dev o quieres construir algo:
 
 Para monitorear:
 - [Dashboard de implementación + estado real](./DASHBOARD.md)
-- [Gaps del mercado y oportunidades](./GAPS.md)
 - [Sandbox voluntario CMF: cómo entrar](./convocatorias/sandbox-cmf.md)
 
 ---
@@ -62,7 +61,7 @@ Detalle completo en el [dashboard](./DASHBOARD.md).
 
 ## Cómo contribuir
 
-PRs bienvenidos. Si encontrás un error de data, quieres agregar un caso, sumar una herramienta o aportar una guía, abre un Pull Request. Ver [CONTRIBUTING.md](./CONTRIBUTING.md).
+PRs bienvenidos. Si encuentras un error de data, quieres agregar un caso, sumar una herramienta o aportar una guía, abre un Pull Request. Ver [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---
 

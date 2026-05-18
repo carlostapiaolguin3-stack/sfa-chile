@@ -1,0 +1,38 @@
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Editor
+.vscode/
+.idea/
+*.sublime-*
+
+# Local notes y borradores
+DRAFT-*
+WIP-*
+.notas-personales/
+
+# Local env si llego a tener
+.env
+.env.local
+.env.*.local
+
+# Builds (cuando agreguemos web app)
+node_modules/
+dist/
+build/
+.next/
+.cache/
+*.log
+
+# Python si se agrega
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Misc
+.tmp/
+tmp/
